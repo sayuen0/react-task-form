@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "body": "進捗を生む",
+      "done": false,
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 2,
+      "body": "とにかくやる",
+      "done": false,
+      "created_at": null,
+      "updated_at": null
+    }
+  ]
+}
